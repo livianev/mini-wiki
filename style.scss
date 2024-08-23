@@ -1,0 +1,30 @@
+// seletor{
+//  propriedade:valor;
+//  }
+
+// primeira coisa: reset 
+// o asterisco é um seletor universal
+// dentro do asterisco so colocamos o reset
+// *
+*{
+    margin: 10;
+    padding: 10;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(199, 199, 166);
+}
+
+img
+{
+    width: 300px; 
+    border: radius 50px;;
+}
+
+h1{
+    color:rgba(82, 71, 8, 0.699) ;
+}
+h2{
+    color:rgba(82, 71, 8, 0.699);
+}
